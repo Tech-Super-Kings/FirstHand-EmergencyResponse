@@ -37,9 +37,9 @@ The platform enables:
 
 
 
-## ✨ Features
+## Features
 
-### 🚨 Accident Simulation
+### Accident Simulation
 - Simulated emergency trigger system
 - Real-time workflow activation
 
@@ -50,7 +50,7 @@ The platform enables:
   - Medical Lead
   - Crowd Control
 
-### 🧠 AI-Assisted Triage Flow
+### AI-Assisted Triage Flow
 - Guided emergency assessment
 - Severity classification:
   - Critical
@@ -78,14 +78,14 @@ The platform enables:
 - Swagger/OpenAPI documentation
 - WebSocket-based live updates
 
-### 🎨 Modern Responsive UI
+### Modern Responsive UI
 - Dark-themed emergency dashboard
 - Responsive mobile-friendly design
 - Real-time workflow visualization
 
 
 
-## 🔄 Demo Flow
+##  Demo Flow
 
 1. Simulate emergency incident
 2. Nearby bystanders join coordination mesh
@@ -122,7 +122,7 @@ The platform enables:
 
 
 
-## 🏗️ System Architecture
+## System Architecture
 
 ```text
 User / Bystander
@@ -142,7 +142,7 @@ Hospital Communication Flow
 
 
 
-## 🧠 Tech Stack
+## Tech Stack
 
 ### Frontend
 
@@ -194,7 +194,7 @@ Includes IITM Institute Hospital integration for Chennai-based routing simulatio
 
 
 
-## ⚡ Local Setup
+## Local Setup
 
 ### Backend
 
@@ -271,7 +271,7 @@ By improving coordination between bystanders, hospitals, and emergency responder
 
 
 
-## 🌟 Key Highlights
+## Key Highlights
 
 * Modern dark-themed responsive UI
 * Real-time emergency coordination
