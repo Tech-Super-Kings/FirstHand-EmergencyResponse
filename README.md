@@ -1,4 +1,4 @@
-````md
+
 # FirstHand – AI-Assisted Emergency Response Platform
 
 FirstHand is an AI-powered emergency response coordination platform built for rapid accident response, triage, hospital routing, and emergency handoff in real time.
@@ -147,5 +147,4 @@ Hackathon Prototype – Active Development
 
 MIT License
 
-```
-```
+
