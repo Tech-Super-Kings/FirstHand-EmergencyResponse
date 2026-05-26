@@ -286,7 +286,7 @@ By improving coordination between bystanders, hospitals, and emergency responder
 
 ## 👨‍💻 Team
 
-### Tech-Super-Kings
+### Tech Super Kings
 
 ## 📜 License
 
