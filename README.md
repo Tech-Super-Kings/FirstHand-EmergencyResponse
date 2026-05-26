@@ -3,7 +3,7 @@
 
 FirstHand is an AI-powered emergency response coordination platform built for rapid accident response, triage, hospital routing, and emergency handoff in real time.
 
----
+
 
 ## 🚑 Problem Statement
 
@@ -17,7 +17,7 @@ can cost lives.
 
 FirstHand helps coordinate emergency response instantly using real-time workflows and AI-assisted decision support.
 
----
+
 
 ## ✨ Features
 
@@ -32,7 +32,7 @@ FirstHand helps coordinate emergency response instantly using real-time workflow
 - FastAPI + React Architecture
 - WebSocket-based Live Updates
 
----
+
 
 ## 🧠 Tech Stack
 
@@ -48,7 +48,6 @@ FirstHand helps coordinate emergency response instantly using real-time workflow
 - SQLite
 - WebSockets
 
----
 
 ## 🏥 Hospital Routing
 
@@ -61,7 +60,7 @@ The platform dynamically routes incidents to nearby hospitals based on:
 
 Includes IITM Institute Hospital integration for Chennai-based routing simulation.
 
----
+
 
 ## ⚡ Local Setup
 
@@ -81,7 +80,6 @@ npm install
 npm run dev
 ```
 
----
 
 ## 🌐 Local URLs
 
@@ -91,7 +89,7 @@ npm run dev
 | Backend API  | [http://127.0.0.1:8000](http://127.0.0.1:8000)           |
 | Swagger Docs | [http://127.0.0.1:8000/docs](http://127.0.0.1:8000/docs) |
 
----
+
 
 ## 📂 Project Structure
 
@@ -116,7 +114,6 @@ FirstHand-EmergencyResponse/
 └── README.md
 ```
 
----
 
 ## Key Highlights
 
@@ -128,20 +125,20 @@ FirstHand-EmergencyResponse/
 * Modular FastAPI backend
 * Clean React frontend architecture
 
----
+
 
 ## Team
 
 **Tech-Super-Kings**
 IITM Hackathon 2026
 
----
+
 
 ## Status
 
 Hackathon Prototype – Active Development
 
----
+
 
 ## 📜 License
 
